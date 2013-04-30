@@ -9,7 +9,7 @@ ocupa no vetor (supor que não há empates).
  *
  */
 
-public class Lista3 {
+public class Lista3_1 {
 	public static void main(String args[]){
 		int notas[] = new int[150];
 		int maior_nota = 0, maior_nota_index = 0;
