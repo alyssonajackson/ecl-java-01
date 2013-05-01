@@ -11,9 +11,9 @@ import javax.swing.JOptionPane;
 public class lista3_3 {
 	
 	public static void main(String args[]){
-		int notas[] = new int[4];
-		int maior_nota = 0, maior_nota_index;
-		int menor_nota = 0, menor_nota_index;
+		int notas[] = new int[150];
+		int maior_nota = 0, maior_nota_index = -1;
+		int menor_nota = 0, menor_nota_index = -1;
 		
 		for(int i = 0; i < notas.length; i++){
 			notas[i] = Integer.parseInt(JOptionPane.showInputDialog("Digite a nota " + i + ": "));

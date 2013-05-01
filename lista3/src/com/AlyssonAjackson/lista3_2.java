@@ -14,7 +14,7 @@ public class lista3_2 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		int notas[] = new int[5];
+		int notas[] = new int[150];
 		int maior_nota = 0;
 		String maior_nota_indexes = " ";
 		
