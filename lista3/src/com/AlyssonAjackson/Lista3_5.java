@@ -15,7 +15,6 @@ public class Lista3_5 {
 		int arr1[] = new int[25];
 		int arr2[] = new int[25];
 		int union[] = new int[50];
-		Random rand = new Random();
 		
 		for(int i = 0; i < arr1.length; i++){
 			arr1[i] = Integer.parseInt(JOptionPane.showInputDialog("Digite um valor para o vetor 1, na posição " + i + ": "));
