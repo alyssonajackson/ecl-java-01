@@ -1,5 +1,10 @@
 package com.AlyssonAjackson;
 
+/*
+ * 4- Faça um programa em Java que leia um conjunto de 50 inteiros e o imprima na ordem
+   contrária da que foi lida.
+ */
+
 import javax.swing.JOptionPane;
 
 public class lista3_4 {
